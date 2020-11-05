@@ -26,4 +26,4 @@ Una tarea puede constar de uno o más supervisores que pueden monitorear el avan
 
 La aplicación cliente sube al servidor la información del informe efectuado, el cual constará del informe propiamente dicho, datos del usuario, fecha y hora de registro, coordenadas de latitud y longitud.
 
-[véase repo avisame-control-panel]
+[véase repo avisame-manager]
